@@ -1,0 +1,2 @@
+Natural language processing (NLP) helps computers understand human language. In 2026, many apps use NLP for chat, search, and translation; however, results can vary.
+Students test a pipeline: split sentences, tokenize words, tag parts of speech, lemmatize, and remove stop words.

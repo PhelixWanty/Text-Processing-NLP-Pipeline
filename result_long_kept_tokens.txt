@@ -1,0 +1,8 @@
+Sentence 1: natural language process nlp field artificial intelligence focuse enabl computer work human language
+Sentence 2: modern system classify email translate text summarize document answer question
+Sentence 3: language messy same word have different meaning punctuation inconsistent social media include slang
+Sentence 4: practical nlp pipeline start sentence segmentation tokenization
+Sentence 5: next assign token part speech noun verb adjective etc
+Sentence 6: lemmatizer reduce inflect form base form e g run run
+Sentence 7: finally stop word like remov keep mostly content word
+Sentence 8: quality step affect later step test longer text important
